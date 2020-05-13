@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'لا تذهب الحبتي ^2500', 'سأكون دائما هنا من أجلك']"
+        :strings="[greetings() + ', ' + nicknames + '🥰 ^5000', 'لا تذهب الحبتي ^2500', 'سأكون دائما هنا من أجلك']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
