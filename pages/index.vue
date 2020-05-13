@@ -34,16 +34,7 @@
         Documentation : https://github.com/Orlandster/vue-typed-js/
       -->
       <!-- prettier-ignore -->
-      <vue-typed-js
-        class="vue-typed"
-        :showCursor="false"
-        :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
-        :backDelay="500"
-        :typeSpeed="100"
-        :backSpeed="20"
-        :contentType="'null'"
-      >
+      
         <h1 class="typing"></h1>
       </vue-typed-js>
 
