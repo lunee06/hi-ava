@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Ava", "Babe", "Sayang", "Avakuu", "Cintuu"],
+  nicknames: ["حبيبي", "حبيبي", "حبيبي", "حبيبي", "حبيبي"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    evening: "مساء الخير",
+    afternoon: "مساء الخير",
+    day: "يوم جيد",
+    morning: "صباح الخير",
+    night: "تصبح على خير"
   }
 };
