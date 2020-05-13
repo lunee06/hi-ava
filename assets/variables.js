@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["حبيبي", "حبيبي", "حبيبي", "حبيبي", "حبيبي"],
+  nicknames: ["حبتي", "حبتي", "حبتي", "حبتي", "حبتي"],
   greetings: {
     evening: "مساء الخير",
     afternoon: "مساء الخير",
